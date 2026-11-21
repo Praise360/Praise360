@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Praise
-- 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning Data analysis and Visualization 
-- 💞️ I’m looking to collaborate on data projects
-- 📫 How to reach me: Email - ajayipraisegod@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love numbers
+# Hi, I'm Praise-God Samuel Ajayi
+MSc Anatomy (University of Ilorin) | Anatomy Technologist, Federal University Lokoja
 
-<!---
-Praise360/Praise360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Research interests
+- Neuroscience of traumatic brain injury
+- Single-nucleus RNA-seq of postmortem human hippocampus
+- Human in vitro cell models
+
+## Currently
+- Applying for doctoral training in neuroscience and biomedical sciences
+- Learning analysis - Python
+
+## Contact
+Ajayipraisegod@gmail.com
