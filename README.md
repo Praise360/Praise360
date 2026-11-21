@@ -2,9 +2,11 @@
 MSc Anatomy (University of Ilorin) | Anatomy Technologist, Federal University Lokoja
 
 ## Research interests
-- Neuroscience of traumatic brain injury
-- Single-nucleus RNA-seq of postmortem human hippocampus
-- Human in vitro cell models
+- Neuroscience and Neurobiology
+- Neuroendocrinology and Reproductive Health
+- Environmental Neurotoxicology
+- Neuroinflammation and Oxidative Stress
+
 
 ## Currently
 - Applying for doctoral training in neuroscience and biomedical sciences
@@ -12,3 +14,4 @@ MSc Anatomy (University of Ilorin) | Anatomy Technologist, Federal University Lo
 
 ## Contact
 Ajayipraisegod@gmail.com
+linkedin.com/in/ajayi-praise-god
